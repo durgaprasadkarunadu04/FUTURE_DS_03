@@ -129,8 +129,3 @@ The following preprocessing steps were performed:
 |------|-------------|
 | `marketing_funnel.xlsx` | Excel workbook with pivot tables and dashboard |
 | `dashboard.png` | Dashboard screenshot |
-
----
-
-## 🎓 Internship
-**Future Interns – Data Science & Analytics Track | Task 3 (2026)**
