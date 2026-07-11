@@ -120,7 +120,7 @@ The following preprocessing steps were performed:
 ---
 
 ## 📈 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
